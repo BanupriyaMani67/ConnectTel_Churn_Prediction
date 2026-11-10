@@ -1,0 +1,1 @@
+Place the original Kaggle Telco Customer Churn CSV in this folder's `raw/` directory. Expected filename: `WA_Fn-UseC_-Telco-Customer-Churn.csv`. The dataset is not included in this ZIP.
